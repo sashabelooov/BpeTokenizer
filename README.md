@@ -16,5 +16,5 @@ print(tokenizer.encode(text, allowed_special="all"))
 # [100257, 15339, 1917]
 
 
-print(f"\ntiktoken encoding:{enc.encode(text, allowed_special="all")}")
-print(f"\nour encoding: {tokenizer.encode(text, allowed_special="all")}\n")
+print(f"\n tiktoken encoding:{enc.encode(text, allowed_special="all")}")
+print(f"\n our encoding: {tokenizer.encode(text, allowed_special="all")}\n")
