@@ -1,5 +1,6 @@
 <img width="423" height="90" alt="image" src="https://github.com/user-attachments/assets/993d374e-ead9-4d31-ace4-2ffb2be8a010" />
 
+```python
 text = "<|endoftext|>hello world"
 
 # tiktoken
