@@ -1,0 +1,5 @@
+{
+  "build": {
+    "builder": "nixpacks:NIXPACKS_PYTHON_VERSION=3.12"
+  }
+}
