@@ -20,3 +20,4 @@ print(tokenizer.encode(text, allowed_special="all"))
 
 print(f"\n tiktoken encoding:{enc.encode(text, allowed_special="all")}")
 print(f"\n our encoding: {tokenizer.encode(text, allowed_special="all")}\n")
+```
